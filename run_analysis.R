@@ -43,3 +43,6 @@ for(i in 1:length(x_mean)){
   tidy[i,]<-c(activity_subject,unlist(x_mean[[i]]))
 }
 
+#write data set into a file named tidy_data.txt
+write.table(tidy,file="tidy_data.txt",row.names=FALSE)
+

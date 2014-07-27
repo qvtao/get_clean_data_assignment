@@ -9,7 +9,7 @@
 6. associates data with it's activities and subjects
 7. uses descriptive activity names to name the activities
 8. generate tidy average data set
-9.#write data set into a file named tidy_data- txt
+9. write data set into a file named tidy_data- txt
 
 ##code book
 - activity_name     			activity label name,WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING
